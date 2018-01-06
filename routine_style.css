@@ -1,0 +1,48 @@
+div.signup{
+	width: 400px;
+	height: auto;
+	border: 3px solid green;
+	padding: 3px;
+}
+#routine{
+	width:1355px;
+	border: 3px solid green;
+}
+
+#routine th,td{
+	text-align: center;
+	width: auto;
+	border: 1px solid green;
+}
+
+
+td:hover{
+
+border: 3px solid green;
+}
+
+hr{
+	transform: rotate(27deg);
+}
+
+.day{
+	background-color: black;
+}
+
+
+
+div.button
+{
+align-self: center;
+text-align: center;
+border: 3px solid green;
+padding:2px;
+width: 200px;
+height: auto;
+}
+
+
+
+
+
+
